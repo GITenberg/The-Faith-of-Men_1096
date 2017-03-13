@@ -1,5 +1,8 @@
 _repo: The-Faith-of-Men_1096
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -12,6 +15,8 @@ creator:
 description: Title; Contents; A Relic of the Pliocene; A Hyperborean Brew; The Faith
   of Men; Too Much Gold; The One Thousand Dozen; The Marriage of Lit-Lit; Batard;
   The Story of Jees Uck.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1096#The-Faith-of-Men
 gutenberg_issued: '1997-11-01'
 gutenberg_type: Text
 identifiers:
